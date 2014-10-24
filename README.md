@@ -10,7 +10,7 @@ Concur is used by business travelers to help save time in capturing and submitti
 ![](https://jfqcza.bn1301.livefilestore.com/y2pdcqo0d4eNhIJGkAJJSwspXb6kNyfUPOasr3W3pCw_3ROd6B64lSAvPoG3jq8bhTyPjD3ujpYK8WC2PXglZCjFGKN91k_vD7ppANGDXtPW78/cameraDemo.PNG?psid=1)
 
 
-Through [Twilio MMS](https://www.twilio.com/mms) and Concur's [ReceiptImages API](https://www.concursolutions.com/api/docs/index.html#!/ReceiptImages), we can recreate the same functionality, minus the mobile app.  This solution will provide users the option of skipping the app altogether and use their phone's messaging app to send the image through MMS. Users also get an added bonus of not having to use their mobile data to go through the process - particularly useful if you want to save yourself or the company money especially when traveling abroad.
+Through [Twilio MMS](https://www.twilio.com/mms) and Concur's [ReceiptImages API](https://www.concursolutions.com/api/docs/index.html#!/ReceiptImages), we can recreate the same functionality, minus the mobile app.  This solution will provide users the option of skipping the app altogether and use their phone's native messaging functionality to send the image through MMS. Users also get an added bonus of not having to use their mobile data to go through the process - particularly useful if you want to save yourself or the company money especially when traveling abroad.
 
 Here's a short demo showing how this works:
 
