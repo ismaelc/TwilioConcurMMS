@@ -1,7 +1,7 @@
 var express = require('express'),
     request = require('request'),
     https = require('https'),
-	concur = require("concur-platform"),
+	concur = require("<PLACEHOLDER>"), // Coming soon!
 	async = require("async");
 var app = express();
 
@@ -35,7 +35,7 @@ app.post('/receiveMMS', function (req, res) {
 	if(fromTwilio.mediaUrl) {
 
 		async.waterfall([
-			// 1. Post image to Concur using 'concur-platform' module
+			// 1. Post image to Concur using Concur module (Coming soon!)
 			function(callback) {
 
 				options = {
