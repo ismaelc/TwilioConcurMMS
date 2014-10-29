@@ -48,7 +48,7 @@ The code example walkthrough is split into four parts:
 
 2.  **POSTing the image to Concur's ReceiptImages API**
 
-    	// *Post image to Concur using Concur module* (Coming soon!)
+    	// *Post image to Concur using Concur module*
         // The snippet below takes the Twilio-hosted MMS image URL
         // and passes it to be uploaded to Concur
       
