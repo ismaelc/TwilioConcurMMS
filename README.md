@@ -1,6 +1,6 @@
 ## Using Twilio MMS to submit your business expense
 
-_The following is a guest post by Chris Ismael, Senior Developer Evangelist at Concur.  Concur offers itinerary/expense solutions and APIs that give developers access to its 25M users across 20,000 businesses.
+_The following is a guest post by Chris Ismael, Senior Developer Evangelist at Concur.  Concur offers itinerary/expense solutions and APIs that give developers access to its 25M users across 20,000 businesses._
 
 This is a short post that demonstrates how you can submit your expenses to Concur using Twilio's new MMS API.
 
