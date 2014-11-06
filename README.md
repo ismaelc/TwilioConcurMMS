@@ -16,7 +16,7 @@ Here's a short demo showing how this works:
 
 <a target="_blank" href="https://www.youtube.com/watch?v=jvaKLyyWjLc"><img src="https://jfqcza.bn1301.livefilestore.com/y2poj9tBy1iIuc6IpTGZLnap0ab3cAm6hutsXwK2_YYlhqOpqNX1iQhclvxClMRr6kQNcHAfmkqQVUUHzMWW4uc9AZU0Yt4CHyeDlnc3d6cT3o/Capture%201.PNG?psid=1" /></a>
 
-The flow is explained in the diagram below.  To get started, you would need a Twilio account and setup your MMS.  You can follow this [excellent blog post](https://www.twilio.com/blog/2014/09/getting-started-with-twilio-mms.html) by Kevin Whinnery to set up your Twilio MMS.  You also have the option signing up for a [Concur developer sandbox account](https://developer.concur.com/) if you intend to run the same example in this post.
+The flow is explained in the diagram below.  To get started, you would need a Twilio account and setup your MMS.  You can follow this [excellent blog post](https://www.twilio.com/blog/2014/09/getting-started-with-twilio-mms.html) by Kevin Whinnery to set up your Twilio MMS.  You also have the option signing up for a [Concur developer sandbox account](https://developer.concur.com/) if you intend to run the same example in this post.  The Concur node.js client library can be downloaded [here](http://github.com/concur)
 
 ![](https://jfqcza.bn1301.livefilestore.com/y2pG-OH8zIcw6SXk_SdQxwVpfztEoFBmkPq41sn_yiFtOp3fL0gPiytvpbYs_G0sxsURzQLunNZWBXsU3s1eMtkPuW42gk5wc7WOB2VqY1d-5g/TwilioConcur60.png?psid=1)
 
@@ -150,6 +150,6 @@ The code example walkthrough is split into four parts:
             }, 200);
         }
 
-You can check out the entire source code [here.](https://github.com/ismaelc/TwilioConcurMMS)
+You can check out the entire source code [here.](https://github.com/ismaelc/TwilioConcurMMS).  You can download the Concur client library [here](http://github.com/concur)
 
 Through Twilio MMS, we provided an extra choice for users to interact with their organization's business logic - through SMS/MMS. If your company provides APIs for developers, Twilio MMS is worth exploring.
